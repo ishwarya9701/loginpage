@@ -1,0 +1,33 @@
+.backgd1{
+    background-color:#8359d1;
+    height: 600px;
+}
+.butterfly{
+    height: 400px;
+    width: 400px;
+    margin-top: 110px;
+    margin-left: 152px;
+    border-radius: 70px 0px 70px 0px;
+}
+.para2{
+    color: rgb(236, 224, 8);
+    font-size: 30px;
+    margin-top: 145px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para3{
+    color: white;
+    width: 400px;
+    font-size: 20px;
+}
+.button1{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color:rgb(236, 224, 8);
+    border-radius: 20px;
+    border: 0px;
+}
+.button1:hover{
+    background-color: rgb(225, 37, 68);
+}

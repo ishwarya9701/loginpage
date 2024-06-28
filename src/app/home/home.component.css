@@ -1,0 +1,12 @@
+.photo1{
+    margin-left: -114px;
+    width: 115.5%;
+}
+.para1{
+    z-index:1;
+    position: absolute;
+    color: white;
+    margin-top: 180px;
+    font-size: 102px;
+    font-family: "Jaro", sans-serif;
+}

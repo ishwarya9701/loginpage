@@ -1,0 +1,52 @@
+.backgd3{
+    background-color:#8359d1;
+    height: 1100px;
+}
+.para6{
+    color: rgb(236, 224, 8);
+    font-size: 35px;
+    margin-top: 148px;
+    margin-left: 214px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para7{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+    margin-left: 214px
+}
+.painting{
+    height: 400px;
+    width: 550px;
+    margin-top: 75px;
+    border-radius: 70px 0px 70px 0px;
+}
+.potraits{
+    height: 400px;
+    width: 550px;
+    margin-top: 108px;
+    margin-left: 35px;
+    border-radius: 70px 0px 70px 0px;
+}
+.button1{
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color:rgb(236, 224, 8);
+    border-radius: 20px;
+    border: 0px;
+}
+.button1:hover{
+    background-color: rgb(225, 37, 68);
+}
+.para9{
+    color: rgb(236, 224, 8);
+    font-size: 35px;
+    margin-top: 150px;
+    font-family: "Poetsen One", sans-serif;
+}
+.para10{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+}

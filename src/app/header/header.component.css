@@ -1,0 +1,29 @@
+.header{
+    background-color:#422f65;
+    display: flex;
+    padding: 30px;
+    column-gap: 225px;
+}
+.col-3{
+    display: flex;
+    column-gap:30px;
+    
+}
+
+.head1{
+    color: white;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}
+.head2{
+    color: rgb(236, 224, 8);
+    font-size: 20px;
+    font-family: "Poetsen One", sans-serif;
+    text-align: center;
+ 
+}
+.head3{
+    color: white;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+}

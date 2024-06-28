@@ -1,0 +1,20 @@
+.meet{
+    text-align: center;
+    color: #2e165a;
+    font-size: 40px;
+    margin-top:50px;
+    font-family: "Poetsen One", sans-serif;
+}
+.backgd4{
+    background-color:#ea3ee5;
+    height: 1100px;
+}
+.card-text{
+    color: rgb(166, 38, 38);
+    font-family: "Poetsen One", sans-serif;
+    font-size: 30px;
+}
+.worktype{
+    font-family: "Roboto Condensed", sans-serif;
+    
+}

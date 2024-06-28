@@ -1,0 +1,50 @@
+.backgd2{
+    background-color:#ea3ee5;
+    height: 1500px;
+}
+
+.heading{
+    text-align: center;
+    font-size: 38px;
+    color:#422f65 ;
+    font-family: "Poetsen One", sans-serif;
+    margin-top: 43px;
+
+}
+.online{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.grap{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.anime{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.draw{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.tablet{
+    height: 400px;
+    width: 500px;
+    border-radius: 20px;
+    margin-top:44px;
+}
+
+.tab{
+ color: #422f65;
+ font-size: 20px;
+ font-family: "Poetsen One", sans-serif;
+}
+.words{
+    color: white;
+    width: 500px;
+    font-size: 20px;
+}
